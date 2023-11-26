@@ -48,3 +48,5 @@ tr{
    color: ${props => props.variant == 'income' ? props.theme["green-300"]: props.theme["red-300"]};
 
  `;
+
+
