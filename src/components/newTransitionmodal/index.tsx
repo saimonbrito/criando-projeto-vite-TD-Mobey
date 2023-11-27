@@ -23,9 +23,9 @@ export function NewTransactionModal(){
                  <ArrowCircleUp size={24}/>
                  Entrada
                 </TransitionTypeButton>
-              </TransitionType>
+             
 
-              <TransitionType>
+              
               <TransitionTypeButton variant="outcome" value="outcome">
                  <ArrowCircleDown size={24}/>
                  Saida
